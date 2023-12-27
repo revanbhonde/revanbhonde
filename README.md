@@ -1,8 +1,8 @@
-I am a Software Developer looking to build cool things and work with awesome people! 🧪
+I am a Web and Application Developer looking to build cool things and work with awesome people! 🧪
 
-I love building software using Java (it's one of my favourite languages). 🐍
+I love building software using Java/Kotlin, As well as I love working on Web development and designing 🐍
 
-I am B.E. pursuing student from Kashibai Navale College of Engineering, Pune-41 🏫🎒🚸
+I am a B.E. IT student from Kashibai Navale College of Engineering, Pune-41 🎒🚸
 
 @Piyush_Khairnar(Don) Sir is my technical guide 👨‍💻
 
